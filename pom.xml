@@ -8,7 +8,7 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.tcs.in</groupId>
+	<groupId>com.tcs.in.x</groupId>
 	<artifactId>SPB_1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SPB_1</name>
